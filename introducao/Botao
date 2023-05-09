@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Inserindo Botão </h2>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click para vizualizar a Data atual.</button>
+
+<p id="demo"></p>
+
+</body>
+</html> 
