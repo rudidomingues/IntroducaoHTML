@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<title>CSS Template</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+    <h2>CSS Layout Float</h2>
+    <p>Neste exemplo, criamos um cabeçalho, duas colunas/caixas e um rodapé. Em telas menores, as colunas serão empilhadas umas sobre as outras.</p>
+    <p>Redimensione a janela do navegador para ver o efeito responsivo (Será visto com mais aprofundamento em seguida).</p>
+    
+    <header>
+      <h2>Profissões</h2>
+    </header>
+    
+    <section>
+      <nav>
+        <ul>
+          <li><a href="#"> Designer de Experiência do Usuário (UX)</a></li>
+          <li><a href="#"> Analista de Big Data</a></li>
+          <li><a href="#"> Gestor de informação</a></li>
+        </ul>
+      </nav>
+      
+      <article>
+        <h1>Profissões do Futuro</h1>
+        <p>1. Designer de Experiência do Usuário (UX)</p>
+        <p>2. Analista de Big Data</p>
+        <p>3. Gestor de informação</p>
+        <p>4. Cientista de dados</p>
+        <p>5. Data Protection Officer (DPO)</p>
+        
+      </article>
+    </section>
+    
+    <footer>
+      <p>Footer</p>
+    </footer>
+    
+    </body>
+    </html>
+    
